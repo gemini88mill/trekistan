@@ -1,0 +1,29 @@
+.bg-1 {
+    background: url("../assets/images/5663950-minimal-windows-10-wallpaper.png") no-repeat;
+}
+
+h1, .title-white {
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-size: 2.5em;
+}
+
+.col-sm-4{
+    border: dotted;
+}
+
+.subtitle-white {
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.5em;
+}
+
+.row-padding {
+    padding: 30px;
+}
+
+.signup-head-white {
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.3em;
+    color: white;
+}

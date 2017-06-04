@@ -1,0 +1,573 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="82b0b4a2-6f85-4f0b-bca5-88cf1cf3186c" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/5663950-minimal-windows-10-wallpaper.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/FirxEHz.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/nq7cvHJoQka1PnfrWqckOEOl-YHhKR6FIEUVSp3UPXs.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/wallhaven-105871.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/wallhaven-158055 (1).jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/wallhaven-158055.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/wallhaven-163769.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/wallhaven-163909.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/wallhaven-255298.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/wallhaven-273176.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/wallhaven-323418.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/wallhaven-389279.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/wallhaven-468895.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/wallhaven-476520.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/wallhaven-477422.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/wallhaven-50137.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/wallhaven-52254.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/wallhaven-77459.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/polymer/img/migration.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/trekistan.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vagrant.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Vagrantfile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/desandro-matches-selector/.bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/desandro-matches-selector/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/desandro-matches-selector/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/desandro-matches-selector/matches-selector.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ev-emitter/.bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ev-emitter/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ev-emitter/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ev-emitter/ev-emitter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/fizzy-ui-utils/.bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/fizzy-ui-utils/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/fizzy-ui-utils/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/fizzy-ui-utils/utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/get-size/.bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/get-size/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/get-size/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/get-size/get-size.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/masonry/.bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/masonry/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/masonry/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/masonry/dist/masonry.pkgd.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/masonry/dist/masonry.pkgd.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/masonry/masonry.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/outlayer/.bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/outlayer/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/outlayer/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/outlayer/item.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/outlayer/outlayer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/polymer/.bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/polymer/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/polymer/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/polymer/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/polymer/closure.log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/polymer/externs/closure-types.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/polymer/externs/polymer-externs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/polymer/externs/webcomponents-externs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/polymer/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/polymer/lib/elements/array-selector.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/polymer/lib/elements/custom-style.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/polymer/lib/elements/dom-bind.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/polymer/lib/elements/dom-if.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/polymer/lib/elements/dom-module.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/polymer/lib/elements/dom-repeat.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/polymer/lib/legacy/class.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/polymer/lib/legacy/legacy-element-mixin.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/polymer/lib/legacy/mutable-data-behavior.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/polymer/lib/legacy/polymer-fn.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/polymer/lib/legacy/polymer.dom.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/polymer/lib/legacy/templatizer-behavior.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/polymer/lib/mixins/element-mixin.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/polymer/lib/mixins/gesture-event-listeners.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/polymer/lib/mixins/mutable-data.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/polymer/lib/mixins/property-accessors.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/polymer/lib/mixins/property-effects.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/polymer/lib/mixins/template-stamp.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/polymer/lib/utils/array-splice.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/polymer/lib/utils/async.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/polymer/lib/utils/boot.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/polymer/lib/utils/case-map.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/polymer/lib/utils/debounce.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/polymer/lib/utils/flattened-nodes-observer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/polymer/lib/utils/flush.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/polymer/lib/utils/gestures.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/polymer/lib/utils/import-href.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/polymer/lib/utils/mixin.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/polymer/lib/utils/path.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/polymer/lib/utils/render-status.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/polymer/lib/utils/resolve-url.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/polymer/lib/utils/style-gather.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/polymer/lib/utils/templatize.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/polymer/lib/utils/unresolved.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/polymer/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/polymer/polymer-element.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/polymer/polymer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/polymer/wct.conf.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/shadycss/.bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/shadycss/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/shadycss/apply-shim.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/shadycss/apply-shim.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/shadycss/apply-shim.min.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/shadycss/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/shadycss/custom-style-interface.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/shadycss/custom-style-interface.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/shadycss/custom-style-interface.min.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/shadycss/entrypoints/apply-shim.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/shadycss/entrypoints/custom-style-interface.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/shadycss/entrypoints/scoping-shim.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/shadycss/examples/custom-style-element.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/shadycss/examples/document-style-lib.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/shadycss/externs/shadycss-externs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/shadycss/gulpfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/shadycss/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/shadycss/scoping-shim.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/shadycss/scoping-shim.min.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/shadycss/src/apply-shim-utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/shadycss/src/apply-shim.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/shadycss/src/common-regex.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/shadycss/src/common-utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/shadycss/src/css-parse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/shadycss/src/custom-style-interface.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/shadycss/src/document-wait.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/shadycss/src/document-watcher.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/shadycss/src/scoping-shim.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/shadycss/src/style-cache.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/shadycss/src/style-info.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/shadycss/src/style-placeholder.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/shadycss/src/style-properties.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/shadycss/src/style-settings.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/shadycss/src/style-transformer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/shadycss/src/style-util.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/shadycss/src/template-map.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/shadycss/wct.conf.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webcomponentsjs/.bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webcomponentsjs/.eslintrc.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webcomponentsjs/.gitattributes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webcomponentsjs/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webcomponentsjs/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webcomponentsjs/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webcomponentsjs/LICENSE.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webcomponentsjs/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webcomponentsjs/banner.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webcomponentsjs/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webcomponentsjs/custom-elements-es5-adapter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webcomponentsjs/entrypoints/custom-elements-es5-adapter-index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webcomponentsjs/entrypoints/webcomponents-hi-ce-index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webcomponentsjs/entrypoints/webcomponents-hi-index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webcomponentsjs/entrypoints/webcomponents-hi-sd-ce-index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webcomponentsjs/entrypoints/webcomponents-hi-sd-ce-pf-index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webcomponentsjs/entrypoints/webcomponents-sd-ce-index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webcomponentsjs/externs/webcomponents.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webcomponentsjs/gulpfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webcomponentsjs/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webcomponentsjs/src/post-polyfill.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webcomponentsjs/src/pre-polyfill.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webcomponentsjs/src/unresolved.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webcomponentsjs/tests/ce-import-upgrade-async.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webcomponentsjs/tests/ce-import-upgrade.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webcomponentsjs/tests/ce-import.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webcomponentsjs/tests/ce-upgrade-order.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webcomponentsjs/tests/ce-upgradedocumenttree.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webcomponentsjs/tests/dev-loader-swizzled.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webcomponentsjs/tests/dev-loader.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webcomponentsjs/tests/force-polyfills.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webcomponentsjs/tests/imports/a1-define.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webcomponentsjs/tests/imports/a1-import.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webcomponentsjs/tests/imports/a1-instance.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webcomponentsjs/tests/imports/a1-reference.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webcomponentsjs/tests/imports/csp-import-1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webcomponentsjs/tests/imports/csp-import-2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webcomponentsjs/tests/imports/csp-script-1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webcomponentsjs/tests/imports/csp-script-2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webcomponentsjs/tests/imports/current-script.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webcomponentsjs/tests/imports/element-import-a.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webcomponentsjs/tests/imports/element-import-b.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webcomponentsjs/tests/imports/element-import.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webcomponentsjs/tests/imports/import-file.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webcomponentsjs/tests/imports/import-upgrade-order.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webcomponentsjs/tests/imports/script-1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webcomponentsjs/tests/imports/script-2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webcomponentsjs/tests/imports/simple-element-es5.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webcomponentsjs/tests/imports/simple-element.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webcomponentsjs/tests/integration-es5.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webcomponentsjs/tests/integration.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webcomponentsjs/tests/load.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webcomponentsjs/tests/runner.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webcomponentsjs/tests/smoke.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webcomponentsjs/tests/template-and-CE.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webcomponentsjs/tests/template-and-imports.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webcomponentsjs/wct.conf.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webcomponentsjs/webcomponents-hi-ce.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webcomponentsjs/webcomponents-hi-ce.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webcomponentsjs/webcomponents-hi-sd-ce.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webcomponentsjs/webcomponents-hi-sd-ce.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webcomponentsjs/webcomponents-hi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webcomponentsjs/webcomponents-hi.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webcomponentsjs/webcomponents-lite.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webcomponentsjs/webcomponents-lite.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webcomponentsjs/webcomponents-loader.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webcomponentsjs/webcomponents-sd-ce.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webcomponentsjs/webcomponents-sd-ce.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/custom.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/masonry.js" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="580">
+              <caret line="29" column="36" lean-forward="false" selection-start-line="29" selection-start-column="36" selection-end-line="29" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="custom.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/custom.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="masonry.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/masonry.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <folding>
+                <element signature="e#22#62#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/js/masonry.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/custom.css" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBowerSettings">
+    <node-interpreter value="project" />
+    <exe-path>/usr/bin/bower</exe-path>
+    <config-path>$PROJECT_DIR$/bower.json</config-path>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-1" />
+    <option name="y" value="-11" />
+    <option name="width" value="1922" />
+    <option name="height" value="1092" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="trekistan" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="trekistan" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="trekistan" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="trekistan" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="trekistan" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path" value="/usr/bin/node" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/css" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript.Bower" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/images" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="82b0b4a2-6f85-4f0b-bca5-88cf1cf3186c" name="Default" comment="" />
+      <created>1496416672691</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1496416672691</updated>
+      <workItem from="1496416673837" duration="10898000" />
+      <workItem from="1496509006754" duration="6795000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="17693000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1" y="-11" width="1922" height="1092" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24986821" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32916668" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32916668" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" column="11" lean-forward="false" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/masonry.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding>
+            <element signature="e#22#62#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/html5-schema/html5/common.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="124" column="18" lean-forward="false" selection-start-line="124" selection-start-column="18" selection-end-line="124" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/html5-schema/html5/sectional.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="16" lean-forward="false" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="580">
+          <caret line="29" column="36" lean-forward="false" selection-start-line="29" selection-start-column="36" selection-end-line="29" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
